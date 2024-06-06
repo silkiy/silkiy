@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native, Flutter**
 
-- 💬 Ask me about **Mobile**
+- 💬 Ask me about **Mobile Dev**
 
 - 📫 How to reach me **wildansilki643@gmail.com**
 
