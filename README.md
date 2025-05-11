@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/silkiiiii" target="blank"><img src="https://img.shields.io/twitter/follow/silkiiiii?logo=twitter&style=for-the-badge" alt="silkiiiii" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Flutter**
+- 🌱 I’m currently learning **React Native, Flutter, expressjs**
 
-- 💬 Ask me about **Mobile Dev**
+- 💬 Ask me about **Mobile Dev And Backend**
 
-- 📫 How to reach me **wildansilki643@gmail.com**
+- 📫 How to reach me **contact.wildansilki@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
