@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native, Flutter, expressjs**
 
-- 💬 Ask me about **Mobile Dev And Backend**
+- 💬 Ask me about **Mobile Dev And Backend Dev**
 
 - 📫 How to reach me **contact.wildansilki@gmail.com**
 
