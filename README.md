@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **contact.wildansilki@gmail.com**
 
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
