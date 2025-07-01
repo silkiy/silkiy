@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silkiy" alt="silkiy" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/silkiiiii" target="blank"><img src="https://img.shields.io/twitter/follow/silkiiiii?logo=twitter&style=for-the-badge" alt="silkiiiii" /></a> </p>
-
 - 🌱 I’m currently learning **React Native, Flutter, expressjs**
 
 - 💬 Ask me about **Mobile Dev And Backend Dev**
