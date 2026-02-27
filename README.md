@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Mobile Dev And Backend Dev**
 
-- 📫 How to reach me **contact.wildansilki@gmail.com**
+- 📫 How to reach me **[contact.wildansilki@gmail.com](https://www.wildansilki.xyz)**
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
