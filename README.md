@@ -11,7 +11,6 @@
   <p>
     <a href="https://www.wildansilki.xyz"><b>🌐 Portfolio Website</b></a> •
     <a href="https://www.linkedin.com/in/wildan-silki-69768a272/"><b>💼 LinkedIn</b></a> •
-    <a href="https://www.instagram.com/project_silki"><b>📸 Instagram</b></a>
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=silkiy&label=Profile%20Views&color=00f2fe&style=flat-square" alt="Profile Views" />
@@ -78,9 +77,6 @@ Let's discuss Web3, Full-Stack applications, or Algorithmic Trading! I'm open to
   </a>
   <a href="https://www.linkedin.com/in/wildan-silki-69768a272/">
     <img src="https://img.shields.io/badge/LinkedIn-Wildan_Silki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/project_silki">
-    <img src="https://img.shields.io/badge/Instagram-@project__silki-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:contact@wildansilki.xyz">
     <img src="https://img.shields.io/badge/Email-contact@wildansilki.xyz-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
