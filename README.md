@@ -57,10 +57,10 @@ I am a highly motivated **Software Engineer & Web3 Specialist** based in East Ja
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=silkiy&show_icons=true&bg_color=0d0d1f&title_color=00f2fe&text_color=e2e8f0&icon_color=4facfe&border_color=141341" alt="Wildan's GitHub Stats" width="100%" />
+        <img src="https://github-stats-extended.vercel.app/api?username=silkiy&show_icons=true&bg_color=0d0d1f&title_color=00f2fe&text_color=e2e8f0&icon_color=4facfe&border_color=141341" alt="Wildan's GitHub Stats" width="100%" />
       </td>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silkiy&layout=compact&bg_color=0d0d1f&title_color=00f2fe&text_color=e2e8f0&icon_color=4facfe&border_color=141341" alt="Wildan's Top Languages" width="100%" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=silkiy&layout=compact&bg_color=0d0d1f&title_color=00f2fe&text_color=e2e8f0&icon_color=4facfe&border_color=141341" alt="Wildan's Top Languages" width="100%" />
       </td>
     </tr>
   </table>
