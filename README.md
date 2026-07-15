@@ -5,7 +5,7 @@
 <br/>
 
 <div align="center">
-  <h3>✨ Professional Software Engineer & Web3 Specialist from Indonesia 🇮🇩</h3>
+  <h3>✨ Professional Software Engineer & Web3 Specialist from Indonesia</h3>
   <p>Building high-performance, decentralized, and user-centric digital solutions.</p>
 
   <p>
