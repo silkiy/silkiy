@@ -24,7 +24,7 @@
 I am a highly motivated **Software Engineer & Web3 Specialist** based in East Java, Indonesia. I specialize in Full-Stack web development, decentralized applications, and algorithmic trading systems. My passion lies in engineering robust backend infrastructures, responsive frontends, and bridging complex technology with clean, intuitive designs.
 
 - 🏆 **International Award Winner:** Won **2nd Place** at the **International Code Olympiad 2023** in Game Development, receiving official provincial recognition from the *Acting Governor of East Java*.
-- 💼 **Professional Experience:** Former Full-Stack Developer at **PT Merkle Inovasi Teknologi**, focusing on dashboard profiling and backend APIs.
+- 💼 **Professional Experience:** Former Backend Developer at **PT Merkle Inovasi Teknologi**, focusing on dashboard profiling and backend APIs.
 - 🎓 **Education:** Currently pursuing Computer Science at **UISI** (*Universitas Internasional Semen Indonesia*); Alumnus of **SMK Telkom Malang**.
 - 🤖 **Interests & Fields:** Smart Contract Development, Algorithmic Trading (Pine Script), Embedded AI (NVIDIA Jetson Nano), and Mobile Apps.
 
