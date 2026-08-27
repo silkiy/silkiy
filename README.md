@@ -63,16 +63,12 @@
 ### [05] GitHub Telemetry
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=silkiy&show_icons=true&bg_color=0a0a0f&title_color=89dceb&icon_color=cdd6f4&text_color=a6adc8&border_color=313244" alt="Wildan's GitHub Stats" width="100%" />
-      </td>
-      <td valign="top" width="50%">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=silkiy&layout=compact&bg_color=0a0a0f&title_color=89dceb&text_color=a6adc8&border_color=313244" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/silkiy">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=silkiy&show_icons=true&bg_color=0a0a0f&title_color=89dceb&icon_color=cdd6f4&text_color=a6adc8&border_color=313244" alt="Wildan's GitHub Stats" height="195" />
+  </a>
+  <a href="https://github.com/silkiy">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=silkiy&layout=compact&bg_color=0a0a0f&title_color=89dceb&text_color=a6adc8&border_color=313244" alt="Top Languages" height="195" />
+  </a>
 </div>
 
 ---
