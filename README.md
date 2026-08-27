@@ -66,10 +66,10 @@
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=silkiy&show_icons=true&bg_color=0a0a0f&title_color=89dceb&icon_color=cdd6f4&text_color=a6adc8&border_color=313244" alt="Wildan's GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=silkiy&show_icons=true&bg_color=0a0a0f&title_color=89dceb&icon_color=cdd6f4&text_color=a6adc8&border_color=313244" alt="Wildan's GitHub Stats" width="100%" />
       </td>
       <td valign="top" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silkiy&layout=compact&bg_color=0a0a0f&title_color=89dceb&text_color=a6adc8&border_color=313244" alt="Top Languages" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=silkiy&layout=compact&bg_color=0a0a0f&title_color=89dceb&text_color=a6adc8&border_color=313244" alt="Top Languages" width="100%" />
       </td>
     </tr>
   </table>
