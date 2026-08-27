@@ -64,10 +64,10 @@
 
 <div align="center">
   <a href="https://github.com/silkiy">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=silkiy&show_icons=true&bg_color=0a0a0f&title_color=89dceb&icon_color=cdd6f4&text_color=a6adc8&border_color=313244" alt="Wildan's GitHub Stats" height="195" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=silkiy&show_icons=true&bg_color=0a0a0f&title_color=89dceb&icon_color=cdd6f4&text_color=a6adc8&border_color=313244" alt="Wildan's GitHub Stats" width="49%" />
   </a>
   <a href="https://github.com/silkiy">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=silkiy&layout=compact&bg_color=0a0a0f&title_color=89dceb&text_color=a6adc8&border_color=313244" alt="Top Languages" height="195" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=silkiy&layout=compact&card_width=467&langs_count=8&bg_color=0a0a0f&title_color=89dceb&text_color=a6adc8&border_color=313244" alt="Top Languages" width="49%" />
   </a>
 </div>
 
