@@ -10,7 +10,7 @@
 
   <p>
     <a href="https://www.wildansilki.xyz"><b>🌐 Portfolio Website</b></a> •
-    <a href="https://www.linkedin.com/in/wildan-silki-69768a272/"><b>💼 LinkedIn</b></a> •
+    <a href="https://www.linkedin.com/in/silki/"><b>💼 LinkedIn</b></a> •
   </p>
 
   <img src="https://komarev.com/ghpvc/?username=silkiy&label=Profile%20Views&color=00f2fe&style=flat-square" alt="Profile Views" />
