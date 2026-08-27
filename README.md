@@ -11,8 +11,8 @@
 
   <p align="center">
     <a href="https://www.wildansilki.xyz"><img src="https://img.shields.io/badge/WEBSITE-wildansilki.xyz-0a0a0f?style=flat-square&logo=googlechrome&logoColor=89dceb&labelColor=181825" alt="Portfolio" /></a>
-    <a href="https://www.linkedin.com/in/wildan-silki-69768a272/"><img src="https://img.shields.io/badge/LINKEDIN-Wildan_Silki-0a0a0f?style=flat-square&logo=linkedin&logoColor=89dceb&labelColor=181825" alt="LinkedIn" /></a>
-    <a href="https://www.instagram.com/wildansilki_/"><img src="https://img.shields.io/badge/INSTAGRAM-@project__silki-0a0a0f?style=flat-square&logo=instagram&logoColor=89dceb&labelColor=181825" alt="Instagram" /></a>
+    <a href="https://www.linkedin.com/in/silki/"><img src="https://img.shields.io/badge/LINKEDIN-silki-0a0a0f?style=flat-square&logo=linkedin&logoColor=89dceb&labelColor=181825" alt="LinkedIn" /></a>
+    <a href="https://www.instagram.com/wildansilki_/"><img src="https://img.shields.io/badge/INSTAGRAM-@wildansilki__-0a0a0f?style=flat-square&logo=instagram&logoColor=89dceb&labelColor=181825" alt="Instagram" /></a>
     <a href="mailto:contact@wildansilki.xyz"><img src="https://img.shields.io/badge/EMAIL-contact@wildansilki.xyz-0a0a0f?style=flat-square&logo=gmail&logoColor=89dceb&labelColor=181825" alt="Email" /></a>
   </p>
 </div>
